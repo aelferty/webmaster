@@ -1,0 +1,24 @@
+/* listing of tags, classes, ids used */
+nav, section, img, ul, li, div {
+  ...
+}
+.nav {
+
+}
+
+/* nav styling */
+nav {
+  position:fixed;
+  display:block;
+}
+ul {
+  list-style-type:none;
+  float:right;
+}
+li {
+  display:inline-block;
+}
+section {
+  display:block;
+  position:relative;
+}
