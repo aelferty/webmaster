@@ -1,0 +1,28 @@
+/* nav styling */
+/* section class styling */
+.section {
+    margin-bottom:0;
+    display:block;
+    vertical-align:top;
+    clear:both;
+}
+#nav {
+    height:150px;
+    background-color:#346863;
+}
+#nav * {
+    color: #e6fdff;
+    text-align:center;
+    margin:auto;
+    width:30%;
+}
+#nav span {
+    display:block;
+}
+
+/* product styling */
+#product {
+    height:920px;
+    background-color:#346863;
+    position:static;
+}
